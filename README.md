@@ -32,7 +32,7 @@ Clone the repository and install dependencies:
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/age-calculator.git
+git clone https://github.com/SumanDas60/AgeCalculator.git
 
 # Move into project folder
 cd age-calculator
